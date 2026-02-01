@@ -32,10 +32,12 @@ export default function CurrencyConverter() {
       setRates(data.rates)
       setLastUpdated(new Date().toLocaleTimeString())
       
-      const convertedAmount = (amount1 * data.rates[currency2]).toFixed(2)
-      setAmount2(convertedAmount)
+      if (data.rates[currency2]) {
+        const convertedAmount = (amount1 * data.rates[currency2]).toFixed(2)
+        setAmount2(convertedAmount)
+      }
     } catch (err) {
-      setError(err.message || 'Error fetching exchange rates')
+      setError('Failed to load exchange rates. Please try again.')
       console.error('Fetch error:', err)
     } finally {
       setLoading(false)
