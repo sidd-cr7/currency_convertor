@@ -21,7 +21,7 @@ export default function CurrencyConverter() {
       setLoading(true)
       setError(null)
       const response = await fetch(
-        `https://api.exchangerate-api.com/v4/latest/${currency1}`
+        `https://open.er-api.com/v6/latest/${currency1}`
       )
       
       if (!response.ok) {
