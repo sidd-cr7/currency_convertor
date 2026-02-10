@@ -50,5 +50,6 @@ src/
 
 Supported Currencies
 
-USD, EUR, GBP, JPY, AUD, CAD, CHF, CNY, INR, MXN, BRL, ZAR, SGD, HKD, NZD, KRW
+USD, EUR, GBP, JPY, AUD, CAD, CHF, CNY, INR, MXN, BRL, ZAR, SGD, HKD, NZD, KRW 
+and room to add more
 
