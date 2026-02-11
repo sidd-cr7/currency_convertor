@@ -12,7 +12,7 @@ Instant Calculations - Dynamic updates as you type
 
 Prerequisites
 
-- Node.js 16+ and npm
+- Node.js 16+ and npm dependencies
 
 Installation
 
