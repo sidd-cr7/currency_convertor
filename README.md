@@ -27,6 +27,7 @@ npm run dev
 ```
 
 iii) Open [http://localhost:5173](http://localhost:5173) in your browser
+Or just run it in your terminal
 
 Build for Production
 
