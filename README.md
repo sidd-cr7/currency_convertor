@@ -4,7 +4,7 @@ A simple real-time currency converter built with React that fetches live exchang
 
 Features:
 
-Real-time Exchange Rates - Fetches live data from exchangerate-api.com  
+Real-time Exchange Rates - Fetches live data from exchangerate-api.com for seemless flow 
 Two-way Conversion - Convert from any currency to another seamlessly  
 Swap Currencies - Instantly swap source and destination currencies  
 16 different Currencies - Support for major global currencies  
