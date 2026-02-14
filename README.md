@@ -12,7 +12,7 @@ Instant Calculations - instantly updates the currecny coversions as you type
 
 Prerequisites
 
-- Node.js 16+ and npm dependencies
+Node.js 16+ and npm dependencies
 
 Installation
 
