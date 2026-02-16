@@ -2,6 +2,8 @@ sample Currency Converter
 
 A simple real-time currency converter built with React that fetches live exchange rates and updates instantly.
 
+---
+
 Features:
 
 Real-time Exchange Rates - Fetches live data from exchangerate-api.com for seamless flow 
