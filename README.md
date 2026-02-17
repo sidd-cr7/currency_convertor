@@ -12,6 +12,8 @@ Swap Currencies - Instantly swap source and destination currencies
 16 different Currencies - Support for major global currencies  
 Instant Calculations - instantly updates the currency conversions as you type 
 
+---
+
 Prerequisites
 
 Node.js 16+ and npm dependencies
