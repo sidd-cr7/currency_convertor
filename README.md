@@ -39,6 +39,8 @@ Build for Production
 npm run build
 ```
 
+---
+
 Project Structure
 
 ```
