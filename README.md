@@ -55,6 +55,8 @@ src/
 └── index.css                     # Global styles
 ```
 
+---
+
 Supported Currencies
 
 USD, EUR, GBP, JPY, AUD, CAD, CHF, CNY, INR, MXN, BRL, ZAR, SGD, HKD, NZD, KRW 
