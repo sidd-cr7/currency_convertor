@@ -10,7 +10,7 @@ Real-time Exchange Rates - Fetches live data from exchangerate-api.com for seaml
 Two-way Conversion - Convert from any currency to another seamlessly  
 Swap Currencies - Instantly swap source and destination currencies  
 16 different Currencies - Support for major global currencies  
-Instant Calculations - instantly updates the currency conversions as you type 
+Instant Calculations - instantly updates the currency conversions as you type. 
 
 ---
 
