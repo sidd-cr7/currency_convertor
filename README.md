@@ -1,10 +1,10 @@
-**Simple Currency Converter**
+# Simple Currency Converter
 
 A simple real-time currency converter built with React that fetches live exchange rates and updates instantly.
 
 ---
 
-Features:
+## Features:
 
 Real-time Exchange Rates - Fetches live data from exchangerate-api.com for seamless flow 
 Two-way Conversion - Convert from any currency to another seamlessly  
@@ -14,7 +14,7 @@ Instant Calculations - instantly updates the currency conversions as you type.
 
 ---
 
-Prerequisites
+## Prerequisites
 
 Node.js 16+ and npm dependencies
 
@@ -41,7 +41,7 @@ npm run build
 
 ---
 
-Project Structure
+## Project Structure
 
 ```
 src/
@@ -57,7 +57,7 @@ src/
 
 ---
 
-Supported Currencies
+## Supported Currencies
 
 USD, EUR, GBP, JPY, AUD, CAD, CHF, CNY, INR, MXN, BRL, ZAR, SGD, HKD, NZD, KRW 
 and room to add more
