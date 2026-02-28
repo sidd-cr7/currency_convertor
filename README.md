@@ -1,6 +1,6 @@
 # Simple Currency Converter
 
-A simple real-time currency converter built with React that fetches live exchange rates and updates instantly.
+A simple real-time currency converter built with React that fetches live exchange rates and updates instantly
 
 ---
 
